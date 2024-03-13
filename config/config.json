@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "shashi",
-    "password": "saroj@2002",
+    "username": "username",
+    "password": "password",
     "database": "openinapp",
     "host": "localhost",
     "dialect": "mysql"
